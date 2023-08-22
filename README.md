@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hello, I'm [Your Name]!</h1>
+  <h1>👋 Hello, I'm Mohamed Ali Ezzeddine!</h1>
   <p>Experienced Developer | Angular | React.js | React Native | Node.js | NestJS</p>
 </div>
 
