@@ -50,14 +50,14 @@ I also enjoy sharing my knowledge and experiences through my blog. Check out som
 
 ## 📫 Let's Connect
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourname)
+- GitHub: [xDaly](https://github.com/xDaly)
+- LinkedIn: [Mohamed Ali Ezzeddine](https://www.linkedin.com/in/xdaly/)
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
 
 ---
 
-*Note: Replace `[Your Name]`, `your-username`, `Your Name`, `yourhandle`, `Project Name`, `link-to-repo`, `Title of Blog Post`, and `link-to-blog-post` with your actual information and content.*
+*Note: I'm always ready to contribute and help for the new ideas.*
 
 *Icons sourced from [FontAwesome](https://fontawesome.com/) or other similar libraries.*
