@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hello, I'm Mohamed Ali Ezzeddine!</h1>
-  <p>Experienced Developer | Angular | React.js | React Native | Node.js | NestJS</p>
+  <p>Experienced Developer | Angular | React.js | Node.js | NestJS</p>
 </div>
 
 ## 📌 About Me
